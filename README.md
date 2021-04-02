@@ -6,14 +6,12 @@
 |[Multivariable Calculus and Linear Algebra](https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd)| |
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
 |[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
-|[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)| |
 |[Optimization Algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)| |
 |[Combinatorial Optimization](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
 |[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| :o: |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
 |[Fuzzy Logic](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-Ph7E3bYW89UbjD6zkW-vbf)| |
-|[Optimal Transport](https://www.youtube.com/playlist?list=PLJ6garKOlK2qKVhRm6UwvcQ46wK-ciHbl)| |
 
 
 | Probability | Done |
@@ -63,13 +61,6 @@
 | ------- | ---- |
 |[Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/)| |
 
-| Psychology | Done |
-| ---------- | ---- |
-|[PSYC 200](https://www.youtube.com/playlist?list=PLVHY3HvnI6yMIotukmARTlrCk2q8RXCHg)| |
-|[Personality and Its Transformations](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi)| |
-|[Introduction to Psychology](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-00sc-introduction-to-psychology-fall-2011/)| |
-|[Introduction to Psychology with Paul Bloom](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)| |
-
 | Computers | Done |
 | --------- | ---- |
 |[Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)| |
@@ -80,6 +71,7 @@
 |[Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)| |
 |[Full Stack DL](https://fullstackdeeplearning.com/)| |
 |[Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)| |
+|[Formal Methods of Software Design](https://www.youtube.com/playlist?list=PLfsVAYSMwskseQbJ242TApAzA7fW83KyH)| |
 
 More:
 
