@@ -9,7 +9,6 @@
 |[Optimization Algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)| |
 |[Combinatorial Optimization](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
-|[Measure Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)| :o: |
 |[Functional Analysis](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)| |
 |[Fuzzy Logic](https://www.youtube.com/playlist?list=PLhdVEDm7SZ-Ph7E3bYW89UbjD6zkW-vbf)| |
 
@@ -43,6 +42,7 @@
 |[Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
 |Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
+|[Probabilistic Machine Learning](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 
 
