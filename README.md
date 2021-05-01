@@ -22,8 +22,6 @@
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[randomservices](https://www.randomservices.org/random/index.html)| |
 |[Introductory Lectures to Stochastic Programming](https://www.youtube.com/playlist?list=PLDHkmxy7k_rktM2qboxi6tZcW0xPuNMZu)| |
-|[Couplings and Monte Carlo](https://sites.google.com/site/pierrejacob/cmclectures)| |
-
 
 | Algorithms | Done |
 | ---------- | ---- |
@@ -44,6 +42,7 @@
 |Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
 |[Probabilistic Machine Learning](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/)| |
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
+|[Data Science](http://cs109.github.io/2015/index.html)| |
 
 
 | Games Theory | Done |
