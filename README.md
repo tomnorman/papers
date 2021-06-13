@@ -35,7 +35,6 @@
 |[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
 |[Learning From Data](http://home.caltech.edu/telecourse.html)| |
 |[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
-|[Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
 |[Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)| |
 |Statistical Machine Learning, CMU, [2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r), [2016](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE), [2017](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv)| |
@@ -43,6 +42,7 @@
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 |[Data Science](http://cs109.github.io/2015/index.html)| |
 |[Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)| |
+|[Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)| |
 
 
 | Games Theory | Done |
