@@ -72,6 +72,7 @@
 |[Full Stack DL](https://fullstackdeeplearning.com/)| |
 |[Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)| |
 |[Formal Methods of Software Design](https://www.youtube.com/playlist?list=PLfsVAYSMwskseQbJ242TApAzA7fW83KyH)| |
+|[Documentation Guide](https://www.writethedocs.org/guide/)| |
 
 More:
 
