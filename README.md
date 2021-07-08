@@ -43,7 +43,8 @@
 |[Data Science](http://cs109.github.io/2015/index.html)| |
 |[Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)| |
 |[Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)| |
-
+|[Doundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)| |
+|[Online Learning](https://haipeng-luo.net/courses/CSCI699/index.html)| :o: |
 
 | Games Theory | Done |
 | ------------ | ---- |
@@ -69,7 +70,6 @@
 |[Learn Git Branching](https://learngitbranching.js.org/)| |
 |[RegexOne](https://regexone.com/)| |
 |[Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)| |
-|[Full Stack DL](https://fullstackdeeplearning.com/)| |
 |[Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)| |
 |[Formal Methods of Software Design](https://www.youtube.com/playlist?list=PLfsVAYSMwskseQbJ242TApAzA7fW83KyH)| |
 |[Documentation Guide](https://www.writethedocs.org/guide/)| |
