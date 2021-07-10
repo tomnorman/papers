@@ -43,7 +43,7 @@
 |[Data Science](http://cs109.github.io/2015/index.html)| |
 |[Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)| |
 |[Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)| |
-|[Doundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)| |
+|[RL Theory](https://rltheory.github.io/)| |
 |[Online Learning](https://haipeng-luo.net/courses/CSCI699/index.html)| :o: |
 
 | Games Theory | Done |
