@@ -5,7 +5,6 @@
 |[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)| :o: |
 |[Multivariable Calculus and Linear Algebra](https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd)| |
 |[Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)| |
-|[Logic and Computation](https://www.youtube.com/playlist?list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N)| |
 |[Optimization Algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)| |
 |[Combinatorial Optimization](https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL)| |
 |[Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)| |
@@ -21,7 +20,12 @@
 |[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2020)| |
 |[Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)| |
 |[randomservices](https://www.randomservices.org/random/index.html)| |
-|[Introductory Lectures to Stochastic Programming](https://www.youtube.com/playlist?list=PLDHkmxy7k_rktM2qboxi6tZcW0xPuNMZu)| |
+
+
+| Causalilty | Done |
+| ---------- | ---- |
+|[Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)| |
+
 
 | Algorithms | Done |
 | ---------- | ---- |
@@ -32,7 +36,6 @@
 
 | ML | Done |
 | -- | ---- |
-|[The Analytics Edge](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)| |
 |[Learning From Data](http://home.caltech.edu/telecourse.html)| |
 |[Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)| |
 |[Neural Networks class, Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)| |
@@ -42,7 +45,6 @@
 |[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)| |
 |[Data Science](http://cs109.github.io/2015/index.html)| |
 |[Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)| |
-|[Causal Inference](https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)| |
 |[RL Theory](https://rltheory.github.io/)| |
 |[Online Learning](https://haipeng-luo.net/courses/CSCI699/index.html)| :o: |
 
@@ -73,6 +75,11 @@
 |[Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)| |
 |[Formal Methods of Software Design](https://www.youtube.com/playlist?list=PLfsVAYSMwskseQbJ242TApAzA7fW83KyH)| |
 |[Documentation Guide](https://www.writethedocs.org/guide/)| |
+
+| Quantum Computation | Done |
+| ------------------- | ---- |
+|[Quantum Computation, CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)| |
+|[Quantum Computation, Berkeley](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)| |
 
 More:
 
